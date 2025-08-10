@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+  /* Example: Make container full width */
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+
+  /* Example: Stack navigation vertically */
+  .nav {
+    display: block;
+    text-align: center;
+  }
+
+  /* Example: Resize images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Example: Adjust font sizes */
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  /* Example: Hide sidebar */
+  .sidebar {
+    display: none;
+  }
+}
